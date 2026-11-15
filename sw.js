@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tin9-bai3-v1';
+const CACHE_NAME = 'tin9-bai3-c9960976';
 const VIDEO = './BAI_3_DANH_GIA_CHAT_LUONG_THONG_TIN.mp4';
 const CORE_ASSETS = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', VIDEO];
 
